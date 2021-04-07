@@ -1,0 +1,61 @@
+{
+  "common": {
+    "search": "Search...",
+    "save": "Save",
+    "cancel": "Cancel",
+    "add": "Add +",
+    "empty": "Empty here",
+    "notFound": "Sorry, we can’t find what you’re looking for"
+  },
+  "auth": {
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "signInInfo": "Not a member yet? ",
+    "signUpInfo": "Already a member? ",
+    "name": "Name",
+    "login": "Login",
+    "password": "Password",
+    "repeatPassword": "Enter your password again",
+    "accept": "I accept the agreement"
+  },
+  "sideMenu": {
+    "teams": "Teams",
+    "players": "Players",
+    "signOut": "Sign out"
+  },
+  "teams": {
+    "name": "Name",
+    "division": "Division",
+    "conference": "Conference",
+    "foundationYear": "Year of foundation",
+    "roster": "Roster",
+    "empty": "Add new teams to continue"
+  },
+  "players": {
+    "player": "Player",
+    "height": "Height",
+    "weight": "Weight",
+    "heightcm": "Height (cm)",
+    "weightkg": "Weight (kg)",
+    "age": "Age",
+    "name": "Name",
+    "position": "Position",
+    "team": "Team",
+    "birthday": "Birthday",
+    "number": "Number",
+    "empty": "Add new players to continue"
+  },
+  "breadCrumbs": {
+    "teams": "Teams",
+    "addTeam": "Add new team",
+    "editTeam": "Edit team",
+    "players": "Players",
+    "addPlayer": "Add new player",
+    "editPlayer": "Edit player"
+  },
+  "errors": {
+    "requiredField": "This field is required",
+    "minLength": "Minimum length is {{count}} symbols",
+    "mustMatch": "Passwords must match"
+  }
+}
